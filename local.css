@@ -1,6 +1,7 @@
 h2 {
-  color: red;
+  color: blue;
 }
 p {
-  color: chocolate;
+  color: black;
+  background-color: yellow;
 }
